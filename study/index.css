@@ -1,0 +1,107 @@
+
+/* 清除内外边距 */
+* {
+    margin: 0;
+    padding: 0;
+}
+/* 去掉无序列表 li 前面的小圆点 */
+li{
+    list-style: none;
+}
+/* 去掉a标签下划线 */
+a{
+    text-decoration:none;
+}
+
+/* 双伪元素清除浮动 */
+.clearfix:before,.clearfix:after {
+    content:"";
+    display:table;
+}
+.clearfix:after {
+    clear:both;
+}
+
+/* header */
+.header{
+    height: 42px;
+}
+
+.wrapper{
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.header .logo{
+    float: left;
+    margin-top: 30px;
+}
+.header .nav{
+    float: left;
+}
+.nav ul{
+    float: left;
+    margin-left: 70px;
+}
+.nav li{
+    float: left;
+    margin-top: 42px;
+    margin-right: 27px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 10px;
+}
+.nav li a{
+    color: #050505;
+}
+
+.nav li:hover{
+    border-bottom: #00a4ff solid 2px;
+}
+
+/* search */
+.search{
+    float: left;
+    margin-top: 31px;
+    margin-left: 70px;
+    width: 412px;
+    height: 40px;
+}
+.search input{
+    float: left;
+    padding-left: 15px;
+    width: 345px;
+    height: 39px;
+    border: 1px solid #00a4ff;
+    font-size: 14px;
+    line-height: 31px
+}
+.search img{
+    float: left;
+}
+/* user */
+.user{
+    float: left;
+    margin-left: 31px;
+    margin-top: 35px;
+}
+.user img{
+    float: left;
+}
+.user span{
+    float: left;
+    margin-left: 6px;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
