@@ -95,6 +95,85 @@ a{
     line-height: 30px;
 }
 
+/* type-nav */
+.type-nav{
+    margin-top: 60px;
+    height: 421px;
+    background-color: rgb(28 3 108);
+}
+.type-nav .left{
+    float: left;
+    width: 190px;
+    height: 421px;
+    background: rgba(0,0,0, 0.3);
+}
+.left li{
+    margin-bottom: 25px;
+    margin-left: 20px;
+}
+.left .first{
+    margin-top: 28px;
+}
+.left .last{
+    margin-bottom: 21px;
+}
+.left li a{
+    font-size: 14px;
+    color: #fff;
+}
+.left li a:hover {
+    color: #00a4ff;
+}
+.left li span{
+    display: inline-block;
+    margin-left: 86px;
+}
+.wrapper .banner {
+    height: 421px;
+    background: url(images/轮播.png) no-repeat top center;
+}
+.type-nav .menu {
+    float: right;
+    width: 230px;
+    height: 300px;
+    background-color: #fff;
+    margin-top: 50px;
+}
+.menu h2 {
+    height: 48px;
+    background-color: #9bceea;
+    text-align: center;
+    line-height: 48px;
+    font-size: 18px;
+    color: #fff;
+}
+.submenu {
+    padding: 0 20px;
+}
+.submenu ul li {
+    padding: 14px 0;
+    border-bottom: 1px solid #ccc;
+}
+.submenu ul li h4 {
+    font-size: 16px;
+    color: #4e4e4e;
+}
+.submenu ul li p {
+    font-size: 12px;
+    color: #a5a5a5;
+}
+.submenu .more {
+    display: block;
+    height: 38px;
+    border: 1px solid #00a4ff;
+    margin-top: 5px;
+    text-align: center;
+    line-height: 38px;
+    color: #00a4ff;
+    font-size: 16px;
+    font-weight: 700;
+}
+
 
 
 
