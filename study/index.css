@@ -173,8 +173,32 @@ a{
     font-size: 16px;
     font-weight: 700;
 }
-
-
+/* text */
+.text{
+    margin-top: 8px;
+    padding: 21px 0;
+    height: 18px;
+    border-bottom: 1px solid #ccc; /* 添加普通下边框 */
+    box-shadow: 0 0 1px #ccc; /* 添加阴影 */
+}
+.text li{
+    float: left;
+    width: 130px;
+    height: 18px;
+    border-right: 1px solid rgb(191 191 191);
+    text-align: center;
+}
+.text li a {
+    color: black;
+}
+.text span{
+    float: right;
+    margin-right: 26px;
+    color: rgb(0 164 255);
+}
+.text li a:hover{
+    color: rgb(0 164 255);
+}
 
 
 
