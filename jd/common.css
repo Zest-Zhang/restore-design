@@ -16,7 +16,7 @@
 	font-style: normal;
 }
 .icomoon{
-	font-family: 'icomoon';
+	font-family: 'icomoon', serif;
 	font-size: 16px;
 	Line-height: 26px;
 }
@@ -47,17 +47,89 @@
 }
 /* 头部 */
 .header{
-	
+	position: relative;
+	height: 105px;
 }
-
-
-
-
-
-
-
-
-
+.header .logo{
+	position: absolute;
+	top: 25px;
+	left: 0;
+	width: 175px;
+	height: 55px;
+}
+.logo a{
+	display: block;
+	width: 175px;
+	height: 55px;
+	background: url("./images/logo.png") no-repeat;
+	font-size: 0;
+}
+.search{
+	position: absolute;
+	top: 25px;
+	left: 344px;
+}
+.search input{
+	float: left;
+	padding-left: 12px;
+	width: 440px;
+	height: 32px;
+	font-size: 14px;
+	border: solid #b1191a 2px;
+}
+.search button{
+	float: left;
+	width: 80px;
+	height: 36px;
+	border: 0;
+	font-size: 16px;
+	background-color: #b1191a;
+	color: #efefef;
+}
+.hotwords{
+	position: absolute;
+	top: 69px;
+	left: 356px;
+}
+.style-red{
+	color: #c81623;
+}
+.hotwords a{
+	margin-right: 21.5px;
+}
+.shopcar{
+	position: absolute;
+	top: 25px;
+	left: 993px;
+	width: 140px;
+	height: 36px;
+	line-height: 36px;
+	background-color: #f7f7f7;
+	border: solid 1px #dfdfdf;
+	text-align: center;
+}
+.shopcar .car{
+	font-family: "icomoon", serif;
+	margin-left: 2px;
+	margin-right: 7px;
+	color: #d84a4a;
+}
+.shopcar .arrow{
+	font-family: "icomoon", serif;
+	margin-left: 14px;
+}
+.shopcar .count{
+	position: absolute;
+	top: -5px;
+	left: 104px;
+	padding: 1px 4px;
+	/* 不要给宽度，因为可能买的件数比较多，让件数撑开，给一个高度就好了 */
+	height: 14px;
+	line-height: 14px;
+	color: #fff;
+	background-color: #e60012;
+	border-radius: 7px 7px 7px 0;
+}
 
 
 
