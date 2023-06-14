@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 # 提示用户输入 commit
@@ -8,3 +9,4 @@ git add .
 git config --global i18n.commitencoding utf-8
 git commit -m "$commit"
 git push origin master
+
