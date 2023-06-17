@@ -190,8 +190,73 @@
 	height: 6px;
 	color: #f7f7f7;
 }
-
-
+/* 底部 */
+.footer{
+	padding-top: 30px;
+	height: 387px;
+	background-color: #f3f3f3;
+}
+.footer li{
+	float: left;
+	width: 232px;
+}
+.footer .introduction{
+	margin-top: 30px;
+	margin-left: 40px;
+	height: 49px;
+}
+.footer .introduction .text{
+	float: left;
+	width: 49px;
+	height: 49px;
+	background: url("./images/icons.png") no-repeat -253px -3px;
+}
+.footer .introduction h5{
+	margin-left: 56px;
+	height: 26px;
+	line-height: 26px;
+	font-size: 14px;
+	color: #333333;
+}
+.footer .introduction p{
+	margin-left: 56px;
+	height: 24px;
+	line-height: 24px;
+	font-size: 14px;
+	color: #666;
+}
+.footer .service{
+	margin-top: 30px;
+	margin-left: 56px;
+	height: 188px;
+	border-bottom: solid 1px #ededed;
+	border-top: solid 1px #ebebeb;
+}
+.service li{
+	float: left;
+	width: 184px;
+}
+.service h5{
+	margin-bottom: 9px;
+	font-size: 16px;
+}
+.service a{
+	display: block;
+	font-size: 12px;
+}
+.service img{
+	width: 84px;
+	height: 84px;
+}
+.footer .copyright {
+	text-align: center;
+}
+.copyright .links{
+	margin:20px 0 15px 0;
+}
+.copyright .info{
+	line-height:18px;
+}
 
 
 
