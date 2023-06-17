@@ -130,6 +130,76 @@
 	background-color: #e60012;
 	border-radius: 7px 7px 7px 0;
 }
+/* 导航 */
+.nav{
+	height: 43px;
+	border-bottom: solid 2px #b1191a;
+}
+.nav .dropdown{
+	float: left;
+}
+.dropdown-dd{
+	width: 209px;
+	height: 45px;
+	background-color: #b0191a;
+	color: #fff;
+	line-height: 45px;
+	text-align: center;
+	font-size: 16px;
+}
+.nav_items{
+	float: left;
+	margin-left: 10px;
+	height: 45px;
+}
+.nav_items a:first-child{
+	margin-left: 30px;
+}
+.nav_items a{
+	margin-right: 43px;
+	font-size: 16px;
+	line-height: 45px;
+}
+.dropdown .dropdown-dt{
+	height: 466px;
+	background-color: #c71623;
+}
+.dropdown-dt li{
+	padding: 0 10px;
+	height: 31px;
+	line-height: 31px;
+	font-size: 14px;
+}
+.dropdown-dt li a{
+	color: #fff;
+}
+.dropdown-dt li:hover{
+	margin-left: 1px;
+	background-color: #f7f7f7;
+	color: #c71623;
+}
+/* 鼠标经过 li，里面的 a 发生改变 */
+.dropdown-dt li:hover a{
+	color: #c71623;
+}
+.dropdown-dt i{
+	float: right;
+	margin-right: 10px;
+	font-family: "icomoon", serif;
+	width: 6px;
+	height: 6px;
+	color: #f7f7f7;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
