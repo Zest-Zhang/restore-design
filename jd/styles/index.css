@@ -1,0 +1,232 @@
+
+/* 主体 */
+.content{
+    height: 466px;
+}
+.main{
+    float: right;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 980px;
+    height: 455px;
+}
+.main img{
+    float: left;
+    width: 721px;
+    height: 455px;
+}
+.main .focus{
+    float: right;
+    width: 250px;
+    height: 455px;
+}
+.focus .news{
+    height: 160px;
+    border: solid 1px #E2E2E2FF;
+}
+.focus .news-one{
+    height: 36px;
+}
+.focus .news-one span{
+    float: left;
+    margin-left: 15px;
+    font-size: 14px;
+    line-height: 36px;
+}
+.focus .news-one .more{
+    float: right;
+    margin-top: 6px;
+    margin-right: 16px;
+}
+.focus .news-one a{
+    margin-top: -2px;
+    font-size: 12px;
+}
+.focus .news-one i{
+    font-family: "icomoon", serif;
+}
+.focus .news-two{
+    height: 124px;
+}
+.news-two-items{
+    height: 25px;
+}
+.news-two h6{
+    float: left;
+    margin-left: 18px;
+    font-size: 13px;
+}
+.news-two span{
+    line-height: 19px;
+}
+.focus .img{
+    height: 210px;
+}
+.img .img-items{
+    float: left;
+    width: 61px;
+    height: 70px;
+    line-height: 100px;
+    text-align: center;
+    background: url("../images/icons.png") no-repeat 3px -4px;
+    border: solid 1px #E2E2E2FF;
+}
+.img .img-items:nth-child(4n){
+    border-right: solid 1.5px #E2E2E2FF;
+}
+.focus img{
+    width: 250px;
+    height: 74px;
+    margin-top: 5px;
+}
+.recommend{
+    margin-top: 11px;
+    height: 163px;
+}
+.recommend .recommend_one{
+    float: left;
+    position: relative;
+    width: 206px;
+    height: 163px;
+    background: url("../images/clock.png") no-repeat 68px 31px #5c5251;
+    font-size: 18px;
+    color: #fdfdfd;
+}
+.recommend_one span{
+    position: absolute;
+    top: 98px;
+    left: 61px;
+}
+.recommend .recommend_two{
+    float: left;
+    width: 994px;
+    height: 163px;
+}
+.recommend_two img{
+    float: left;
+    width: 248.5px;
+    height: 163px;
+}
+.floor{
+    height: 475px;
+}
+.floor .appliance{
+    margin-top: 29px;
+    height: 19px;
+}
+.appliance .left{
+    float: left;
+    font-size: 18px;
+    color: #c81623;
+}
+.appliance .right{
+    float: left;
+    margin-top: 7px;
+    margin-left: 491px;
+}
+.appliance .right a,span{
+    padding-right: 7px;
+}
+.appliance .right a:first-child{
+    color: #c81623;
+}
+.floor .tab{
+    margin-top: 11px;
+    width: 1200px;
+    height: 360px;
+    border-top: solid 2px #c81623;
+}
+.tab .tab-one{
+    float: left;
+    position: relative;
+    width: 209px;
+    height: 360px;
+}
+.tab-one .text{
+    width: 209px;
+    height: 100px;
+}
+.text span{
+    float: left;
+    margin-left: 13px;
+    margin-top: 3px;
+    border-bottom: solid 1px #ededed;
+    width: 81px;
+    height: 33px;
+    text-align: center;
+    line-height: 32px;
+}
+.tab-one img{
+    position: absolute;
+    top: 122px;
+    left: 9px;
+}
+.tab .tab-two{
+    float: left;
+    width: 329px;
+    height: 360px;
+}
+.tab-two img{
+    float: left;
+    width: 329px;
+    height: 360px;
+}
+.tab .tab-three{
+    float: left;
+    width: 220px;
+    height: 180px;
+}
+.tab-three img{
+    float: left;
+    width: 218px;
+    height: 179px;
+    border-bottom: solid 1px #ededed;
+    border-right: solid 1px #ededed;
+}
+.tab .tab-four{
+    float: left;
+    width: 220px;
+    height: 360px;
+}
+.tab-four img{
+    float: left;
+    width: 219px;
+    height: 359px;
+    border-bottom: solid 1px #ededed;
+    border-right: solid 1px #ededed;
+}
+.floor .brand{
+    width: 1195px;
+    height: 65px;
+    background-color: #f5f5f5;
+}
+.brand span{
+    float: left;
+    width: 96px;
+    height: 40px;
+    padding-top: 12px;
+    padding-left: 14px;
+}
+
+.brand img{
+    float: left;
+    width: 115px;
+    height: 40px;
+    line-height: 40px;
+    border-right: dashed 1px #ededed;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

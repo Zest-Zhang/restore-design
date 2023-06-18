@@ -4,6 +4,7 @@
     <list default="true" id="471ae6f2-8d1a-466e-8b86-8f9ef7c60f7a" name="变更" comment="">
       <change beforePath="$PROJECT_DIR$/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/common.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +31,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/zzt/Desktop/restore-design/jd/images",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "last_opened_file_path": "C:/Users/zzt/Desktop/restore-design/jd/uploads",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.CSS",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -44,6 +45,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zzt\Desktop\restore-design\jd\uploads" />
       <recent name="C:\Users\zzt\Desktop\restore-design\jd\images" />
     </key>
   </component>
@@ -60,7 +62,8 @@
       <workItem from="1686746669509" duration="19000" />
       <workItem from="1686821183546" duration="1394000" />
       <workItem from="1686967583087" duration="2395000" />
-      <workItem from="1686970920572" duration="13994000" />
+      <workItem from="1686970920572" duration="27033000" />
+      <workItem from="1687054676136" duration="13657000" />
     </task>
     <servers />
   </component>
