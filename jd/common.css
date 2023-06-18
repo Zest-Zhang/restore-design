@@ -47,10 +47,12 @@
 }
 /* 头部 */
 .header{
-	position: relative;
 	height: 105px;
 }
-.header .logo{
+.header .header-item{
+	position: relative;
+}
+.header-item .logo{
 	position: absolute;
 	top: 25px;
 	left: 0;
@@ -169,6 +171,7 @@
 	height: 31px;
 	line-height: 31px;
 	font-size: 14px;
+	transition: all .1s;
 }
 .dropdown-dt li a{
 	color: #fff;

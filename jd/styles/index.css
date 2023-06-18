@@ -64,11 +64,10 @@
 }
 .img .img-items{
     float: left;
-    width: 61px;
+    width: 60px;
     height: 70px;
     line-height: 100px;
     text-align: center;
-    background: url("../images/icons.png") no-repeat 3px -4px;
     border: solid 1px #E2E2E2FF;
 }
 .img .img-items:nth-child(4n){
@@ -139,8 +138,10 @@
 .tab .tab-one{
     float: left;
     position: relative;
-    width: 209px;
-    height: 360px;
+    width: 208px;
+    height: 359px;
+    border-left: solid 1px #ededed;
+    border-bottom: solid 1px #ededed;
 }
 .tab-one .text{
     width: 209px;
@@ -163,8 +164,36 @@
 }
 .tab .tab-two{
     float: left;
+    position: relative;
     width: 329px;
     height: 360px;
+}
+.tab-two i{
+    position: absolute;
+    top: 332px;
+    left: 142px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #fff;
+}
+.tab-two span{
+    position: absolute;
+    top: 332px;
+    left: 158px;
+    width: 3px;
+    height: 10px;
+    background-color: #3e3e3e;
+    border-radius: 50%;
+}
+.tab-two em{
+    position: absolute;
+    top: 332px;
+    left: 174px;
+    width: 10px;
+    height: 10px;
+    background-color: #3e3e3e;
+    border-radius: 50%;
 }
 .tab-two img{
     float: left;
@@ -196,7 +225,8 @@
     border-right: solid 1px #ededed;
 }
 .floor .brand{
-    width: 1195px;
+    margin-top: 20px;
+    width: 1194px;
     height: 65px;
     background-color: #f5f5f5;
 }
@@ -215,9 +245,26 @@
     line-height: 40px;
     border-right: dashed 1px #ededed;
 }
-
-
-
+/* 固定导航 */
+.fixed-nav{
+    position: fixed;
+    top: 235px;
+    left: 696px;
+    margin-left: -656px;
+    width: 66px;
+}
+.fixed-nav li{
+    padding: 9px;
+    color: #666;
+    border-bottom: solid 1px #ededed;
+    line-height: 12px;
+}
+.fixed-nav li:first-child {
+    background-color: #c81623;
+}
+.fixed-nav li:first-child a{
+    color: #fff;
+}
 
 
 
