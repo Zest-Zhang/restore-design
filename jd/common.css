@@ -243,8 +243,7 @@
 	font-size: 16px;
 }
 .service a{
-	display: block;
-	font-size: 12px;
+	display: inline-block;
 }
 .service img{
 	width: 84px;

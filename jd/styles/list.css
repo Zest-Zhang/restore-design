@@ -1,0 +1,115 @@
+/* 秒杀 */
+.header .seckill{
+    position: absolute;
+    top: 43px;
+    left: 188px;
+    padding-left: 13px;
+    height: 32px;
+    line-height: 32px;
+    border-left: solid 1px #b1191a;
+}
+/* 导航 */
+.nav h5{
+    float: left;
+    margin-right: 56px;
+    margin-top: 14px;
+    font-size: 16px;
+    line-height: 16px;
+    color: #000;
+}
+.nav h5:first-child{
+    margin-left: 28px;
+}
+.nav li{
+    float: left;
+    padding-right: 44px;
+    margin-top: 12px;
+    font-size: 14px;
+    line-height: 24px;
+}
+.nav li:last-child a{
+    padding-right: 1px;
+}
+.nav li .bottom-arrow{
+    font-family: "icomoon", serif;
+    font-size: 18px;
+}
+.nav li:nth-child(2) a{
+    color: #b1191a;
+}
+/* 内容 */
+.container{
+    margin-bottom: 282px;
+    height: 2028px;
+}
+.container .img{
+    margin-bottom: 15px;
+}
+.container-item{
+    float: left;
+    margin-top: 12px;
+    width: 290px;
+    height: 460px;
+}
+.container-item:not(:nth-child(4n+5)){
+     margin-right: 13px;
+}
+.container .text-one{
+    margin: 7px 10px 0 13px;
+    width: 265px;
+    height: 35px;
+    font-size: 13.5px;
+}
+.container .nums{
+    margin-top: 17px;
+    margin-left: 15px;
+}
+.container .nums .nums-one{
+    float: left;
+    padding-right: 8px;
+    font-size: 22px;
+    line-height: 22px;
+    color: #e60012;
+}
+.container .nums .nums-two{
+    float: left;
+    font-size: 14px;
+    line-height: 33px;
+    color: #a3a3a3;
+}
+.nums-two span{
+    padding-right: 4px;
+}
+.text-two{
+    float: left;
+    margin-top: 1px;
+    margin-left: 15px;
+}
+.text-two span{
+    padding-right: 11px;
+}
+.text-two img{
+    margin-top: -2px;
+    padding-right: 11px;
+    width: 133px;
+    height: 13px;
+}
+.container-item .right-now{
+    float: left;
+    margin-top: 13px;
+    width: 290px;
+    height: 51px;
+    line-height: 56px;
+    font-size: 16px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #b1191a;
+}
+
+
+
+
+
+
+
+

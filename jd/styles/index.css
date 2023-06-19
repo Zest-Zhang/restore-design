@@ -248,10 +248,16 @@
 /* 固定导航 */
 .fixed-nav{
     position: fixed;
+    display: none;
     top: 235px;
-    left: 696px;
+    left: 682px;
     margin-left: -656px;
     width: 66px;
+}
+@media screen and (min-width: 1300px) and (max-width: 2000px){
+    .fixed-nav{
+        display: block;
+    }
 }
 .fixed-nav li{
     padding: 9px;
