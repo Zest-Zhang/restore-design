@@ -1,0 +1,355 @@
+
+.product-info .left .crumb{
+    margin-top: 25px;
+}
+.crumb a{
+    padding-right: 12px;
+}
+.crumb a:first-child{
+    color: #000000;
+}
+.crumb i{
+    padding-right: 10px;
+}
+.product-info .left .big-img img{
+    margin-top: 10px;
+    width: 399px;
+    height: 399px;
+    border: solid 1px #ededed;
+}
+.left .small-img .left-arrow{
+    padding-right: 32px;
+    padding-left: 2px;
+    font-family: "icomoon", serif;
+}
+.left .small-img .right-arrow{
+    padding-left: 22px;
+    font-family: "icomoon", serif;
+}
+.small-img i{
+    font-size: 36px;
+    color: #dddddd;
+}
+.product-info .left{
+    float: left;
+}
+.left .small-img img{
+    padding-top: 64px;
+    width: 58px;
+    height: 58px;
+    vertical-align: bottom;
+}
+.left .text span{
+    padding-right: 33px;
+}
+.left .text a:first-of-type{
+    padding-right: 29px;
+}
+.left .text i{
+    padding-right: 30px;
+}
+
+.left .text .share,
+.attention{
+    font-family: "icomoon", serif;
+    font-size: 10px;
+    line-height: 10px;
+    color:  #c81623;
+}
+.left .text .rectangle{
+    font-family: "icomoon", serif;
+    font-size: 10px;
+    line-height: 10px;
+}
+.left .text{
+    margin-top: 25px;
+}
+.product-info .right{
+    float: left;
+    margin-top: 39px;
+    margin-left: 57px;
+}
+.right h5{
+    font-size: 16px;
+    color: #333333;
+}
+.right .right-text{
+    display: block;
+    padding-top: 16px;
+    font-size: 12px;
+    color: #e12228;
+}
+.right .product{
+    position: relative;
+    margin-top: 20px;
+    width: 718px;
+    height: 115px;
+    background-color: #fee9eb;
+}
+.product-price{
+    float: left;
+}
+.product-price .price{
+    float: left;
+    display: inline-block;
+    padding-top: 13px;
+    margin-right: 17px;
+    margin-left: 9px;
+    line-height: 15px;
+}
+.product-price-item{
+    float: left;
+}
+.product-price-item i{
+    display: inline-block;
+    padding-top: 13px;
+    padding-right: 2px;
+    font-size: 16px;
+    color: #e12228;
+}
+.product-price-item span{
+    display: inline-block;
+    padding-top: 8px;
+    margin-right: 6px;
+    font-size: 24px;
+    line-height: 24px;
+    color: #e12228;
+}
+.product-price em{
+    display: inline-block;
+    padding-top: 18px;
+    color: #e12228;
+    line-height: 14px;
+}
+.product-discount{
+    margin-top: 29px;
+}
+.product-discount .discount{
+    float: left;
+    display: inline-block;
+    padding-top: 13px;
+    margin-right: 14px;
+    margin-left: 9px;
+    line-height: 0;
+}
+.product-discount em{
+    display: inline-block;
+    width: 40px;
+    height: 22px;
+    background-color: #c81623;
+    line-height: 20px;
+    text-align: center;
+    color: #f3f3f3;
+}
+.product-discount-text{
+    display: inline-block;
+    width: 561px;
+    height: 40px;
+}
+.product-discount-text i{
+    padding-left: 7px;
+    padding-right: 10px;
+    line-height: 26px;
+}
+.product-discount-text span{
+    padding-right: 10px;
+}
+.product .assessment{
+    position: absolute;
+    top: 12px;
+    right: 10px;
+}
+.product .assessment i{
+    color: #1474af;
+}
+.product-info .iteminfo{
+    margin-top: 15px;
+    margin-left: 9px;
+    height: 104px;
+}
+.iteminfo .iteminfo-top-support{
+    display: inline-block;
+    margin-right: 15px;
+}
+.iteminfo .iteminfo-bottom{
+    margin-top: 12px;
+    width: 592px;
+}
+.iteminfo-bottom-item{
+    float: left;
+    width: 430px;
+    line-height: 30px;
+}
+.iteminfo .iteminfo-bottom-express{
+    float: left;
+    margin-right: 15px;
+    margin-top: 7px;
+}
+.iteminfo em{
+    display: inline-block;
+    line-height: 12px;
+}
+
+.express-bottom h5{
+    display: inline-block;
+    font-size: 12px;
+    color: #989898;
+}
+.product-choose{
+    width: 546px;
+    height: 237px;
+    border-top: solid 1px #ededed;
+    border-bottom: solid 1px #ededed;
+}
+.product-choose-text{
+    float: left;
+    margin-left: 8px;
+}
+.product-choose-text span{
+    display: block;
+    padding-top: 26px;
+}
+.product-choose-color{
+    float: left;
+    margin-top: 15px;
+    margin-left: 14px;
+}
+.product-choose-color button{
+    float: left;
+    margin-right: 8px;
+    padding-left: 27px;
+    padding-right: 26px;
+    height: 42px;
+    line-height: 42px;
+    border: solid 1px #ededed;
+    background-color: #f7f7f7;
+}
+.product-choose-version{
+    float: left;
+    margin-top: 7px;
+    margin-left: 14px;
+    width: 400px;
+}
+.product-choose-version button{
+    float: left;
+    margin-right: 8px;
+    padding-left: 14px;
+    padding-right: 15px;
+    height: 33px;
+    line-height: 33px;
+    border: solid 1px #ededed;
+    background-color: #f7f7f7;
+}
+.product-choose-size{
+    float: left;
+    margin-top: 8px;
+    margin-left: 14px;
+}
+.product-choose-size button{
+    float: left;
+    margin-right: 8px;
+    padding-left: 19px;
+    padding-right: 19px;
+    height: 33px;
+    line-height: 33px;
+    border: solid 1px #ededed;
+    background-color: #f7f7f7;
+}
+.product-choose-buy{
+    float: left;
+    margin-top: 10px;
+    margin-left: 14px;
+    width: 400px;
+}
+.product-choose-buy button{
+    float: left;
+    margin-right: 8px;
+    padding-left: 14px;
+    padding-right: 15px;
+    height: 33px;
+    line-height: 33px;
+    border: solid 1px #ededed;
+    background-color: #f7f7f7;
+}
+.product-choose-package{
+    float: left;
+    margin-top: 10px;
+    margin-left: 14px;
+}
+.product-choose-package button{
+    float: left;
+    margin-right: 8px;
+    padding-left: 14px;
+    padding-right: 15px;
+    height: 33px;
+    line-height: 33px;
+    border: solid 1px #ededed;
+    background-color: #f7f7f7;
+}
+.product-choose button:focus{
+    border: solid 1px #c81623;
+}
+.add-shopcart{
+    position: relative;
+    width: 241px;
+    height: 75px;
+}
+.add-shopcart-num{
+    position: absolute;
+    top: 6px;
+    left: 10px;
+    width: 50px;
+    height: 46px;
+    border: solid 1px #ededed;
+}
+.add-shopcart-num .num-num{
+    float: left;
+    text-align: center;
+    width: 33px;
+    height: 43px;
+    line-height: 43px;
+    border-right: solid 1px #ededed;
+}
+.add-shopcart-num .num-add{
+    float: left;
+    width: 16px;
+    height: 23px;
+    line-height: 21px;
+    border-bottom: solid 1px #ededed;
+    text-align: center;
+    background-color: #efefef;
+}
+.add-shopcart-num .num-reduce{
+    float: left;
+    width: 16px;
+    height: 23px;
+    line-height: 21px;
+    text-align: center;
+    background-color: #efefef;
+}
+.add-shopcart-text{
+    position: absolute;
+    top: 7px;
+    left: 70px;
+    width: 142px;
+    height: 46px;
+    background-color: #c81623;
+    font-size: 18px;
+    line-height: 46px;
+    text-align: center;
+    color: #efefef;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

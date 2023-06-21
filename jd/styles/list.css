@@ -48,8 +48,14 @@
 .container-item{
     float: left;
     margin-top: 12px;
-    width: 290px;
-    height: 460px;
+    width: 288px;
+    height: 459px;
+    border: dashed 1px transparent;
+}
+.container-item:hover{
+    border-left: solid 1px #b1191a;
+    border-right: solid 1px #b1191a;
+    border-top: solid 1px #b1191a;
 }
 .container-item:not(:nth-child(4n+5)){
      margin-right: 13px;
@@ -105,6 +111,14 @@
     color: #ffffff;
     background-color: #b1191a;
 }
+
+
+
+
+
+
+
+
 
 
 
