@@ -36,7 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/zzt/Desktop/restore-design/jd/fonts",
+    "last_opened_file_path": "C:/Users/zzt/Desktop/restore-design/jd/uploads",
     "settings.editor.selected.configurable": "liveEdit",
     "vue.rearranger.settings.migration": "true"
   },
@@ -50,8 +50,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\zzt\Desktop\restore-design\jd\fonts" />
       <recent name="C:\Users\zzt\Desktop\restore-design\jd\uploads" />
+      <recent name="C:\Users\zzt\Desktop\restore-design\jd\fonts" />
       <recent name="C:\Users\zzt\Desktop\restore-design\jd\images" />
     </key>
   </component>
@@ -71,7 +71,7 @@
       <workItem from="1686970920572" duration="27033000" />
       <workItem from="1687054676136" duration="48053000" />
       <workItem from="1687225368650" duration="20202000" />
-      <workItem from="1687315844313" duration="13181000" />
+      <workItem from="1687315844313" duration="23039000" />
     </task>
     <servers />
   </component>
