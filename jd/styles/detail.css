@@ -461,8 +461,13 @@
     top: 1106px;
     right: 0;
 }
-
-
+.body{
+    position: relative;
+}
+.footer{
+    position: absolute;
+    top: 2930px;
+}
 
 
 

@@ -2,19 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="471ae6f2-8d1a-466e-8b86-8f9ef7c60f7a" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/../commit.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/list.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/list.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/detail.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/detail.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -33,10 +34,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/zzt/Desktop/restore-design/jd/uploads",
+    "last_opened_file_path": "C:/Users/zzt/Desktop/restore-design/jd/styles",
     "settings.editor.selected.configurable": "liveEdit",
     "vue.rearranger.settings.migration": "true"
   },
@@ -50,8 +52,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zzt\Desktop\restore-design\jd\styles" />
       <recent name="C:\Users\zzt\Desktop\restore-design\jd\uploads" />
       <recent name="C:\Users\zzt\Desktop\restore-design\jd\fonts" />
+      <recent name="C:\Users\zzt\Desktop\restore-design\jd\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\zzt\Desktop\restore-design\jd\images" />
     </key>
   </component>
@@ -71,7 +77,8 @@
       <workItem from="1686970920572" duration="27033000" />
       <workItem from="1687054676136" duration="48053000" />
       <workItem from="1687225368650" duration="20202000" />
-      <workItem from="1687315844313" duration="23039000" />
+      <workItem from="1687315844313" duration="23342000" />
+      <workItem from="1687401761790" duration="7900000" />
     </task>
     <servers />
   </component>

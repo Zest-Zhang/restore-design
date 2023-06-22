@@ -1,0 +1,143 @@
+
+.body{
+    position: relative;
+}
+.header-item-border{
+    position: absolute;
+    top: 85px;
+    width: 1200px;
+    height: 55px;
+    border-top: solid 2px #b1191a;
+}
+.register-form{
+    height: 519px;
+}
+.register-form-item{
+    position: relative;
+    height: 517px;
+    border: solid 1px #dfdfdf;
+}
+.register-form-top{
+    height: 40px;
+    border-bottom: solid 1px #dfdfdf;
+    background-color: #ededed;
+}
+.top-register{
+    float: left;
+    margin-left: 10px;
+    font-size: 18px;
+    line-height: 41px;
+}
+.top-login{
+    float: right;
+    margin-right: 10px;
+    font-size: 15px;
+    line-height: 41px;
+}
+.top-login span{
+    color: #c81623;
+}
+.register-form-content form{
+    margin-top: 54px;
+    /* margin-left: 313px; */
+    height: 368px;
+}
+.content-input{
+    padding-bottom: 20px;
+    width: 550px;
+    height: 36px;
+    line-height: 36px;
+}
+.content-input .input-phone{
+    position: absolute;
+    right: 807px;
+    font-size: 14px;
+}
+.content-input input{
+    position: absolute;
+    left: 402px;
+    width: 240px;
+    height: 33px;
+}
+.content-input img{
+    margin-top: 7px;
+    position: absolute;
+    left: 656px;
+}
+.content-input-text{
+    position: absolute;
+    left: 679px;
+    color: #df3033;
+}
+.content-status span{
+    position: absolute;
+    top: 251px;
+    left: 482px;
+    color: #b3b3b3;
+}
+.content-status img{
+    position: absolute;
+    top: 253px;
+    left: 540px;
+}
+.content-input-four{
+    padding-top: 20px;
+    width: 550px;
+    height: 36px;
+    line-height: 36px;
+}
+.content-agree input{
+    width: 16px;
+    height: 15px;
+}
+.content-agree a{
+    color: #1ba1e6;
+}
+.content-agree input{
+    position: absolute;
+    top: 354px;
+    left: 399px;
+}
+.content-agree span{
+    position: absolute;
+    top: 352px;
+    left: 423px;
+}
+.content-agree a{
+    position: absolute;
+    top: 352px;
+    left: 510px;
+}
+.submit-register button{
+    position: absolute;
+    top: 388px;
+    left: 410px;
+    width: 200px;
+    height: 34px;
+    background-color: #c81623;
+    font-size: 14px;
+    color: #ffffff;
+    border: 0;
+}
+.footer{
+    background-color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
