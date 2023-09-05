@@ -1,10 +1,10 @@
 一些切过的图，包含学成在线首页和京东的四个页面，效果如下：
 
-学成在线首页：
+## 学成在线首页
 
 ![study-index](./imgs/study-index.png)
 
-京东的四个页面：
+## 京东的四个页面
 
 * 首页 index.html：
     ![jd-index](./imgs/jd-index.png)
